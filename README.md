@@ -11,3 +11,5 @@ quando está ocorrendo uma epilepsia  pode ser relevante para o sistema de saúd
 Para então, aplicar os modelos de aprendizado de máquina e validar os resultados obtidos através das métricas de classificação.
 - Neste trabalho serão aplicados três modelos de aprendizado de máquina para problemas de classificação, visto que o objetivo é identificar se o paciente está ou não com epilepsia a partir de dados já classificados. 
 Escolheu-se comparar o modelo de regressão logística com os modelos de Random Forest e KNeighbors, sendo utilizadas as métricas de precisão, Recall, Score F1 e a matriz de confusão para avaliação dos desempenhos.
+
+<div align="center">2022.2</div>
