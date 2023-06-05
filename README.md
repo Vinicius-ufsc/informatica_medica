@@ -1,4 +1,4 @@
-# Aprendizado de máquina para análise da frequência cardíaca e detecção de epilepsia
+# Aprendizado de máquina para análise da frequência cardíaca e predição de ataques epiléticos
 
 ### Introdução a Informática Médica
 
